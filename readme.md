@@ -69,6 +69,3 @@ FROM transfers
 WHERE contract_address IN ('address1', 'address2', 'address3');
 ```
 
-### **Submission Guidelines:**
-
-Please submit your Github link and answers to the questions to **[ellie@bello.lol](mailto:ellie@bello.lol)**. Good luck!  Feel free to ask questions or seek clarifications.
